@@ -19,11 +19,11 @@
 
 Υλικά που χρειάζονται:
 
-Arduino UNO
-LCD οθόνη (16x2)
-καλώδια
-Arduino Sheild "1Sheeld"
-9V battery
+Arduino UNO, 
+LCD οθόνη (16x2), 
+καλώδια, 
+Arduino Sheild "1Sheeld", 
+9V battery, 
 breadboard
 
 
