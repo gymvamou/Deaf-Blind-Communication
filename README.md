@@ -19,12 +19,16 @@
 
 Υλικά που χρειάζονται:
 
-Arduino UNO, 
-LCD οθόνη (16x2), 
-καλώδια, 
-Arduino Sheild "1Sheeld", 
-9V battery, 
-breadboard
+Arduino UNO  7,50 €,   
+LCD οθόνη (16x2) 8,00€,   
+καλώδια 2,00€,   
+Arduino Sheild "1Sheeld" (υπάρχει ήδη στο σχολείο), 
+9V battery 2,00€,   
+breadboard 5,00€,
+πλαστικό κουτί οπου θα τοποθετηθούν τα εξαρτήματα.
+
+συνολικό κόστος περίπου 30 €
+
 
 
 
